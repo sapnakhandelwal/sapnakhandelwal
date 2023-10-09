@@ -8,7 +8,7 @@
 
 <div> <h1> <picture> <img src = "https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif/about_me.gif?raw=true" width = 50px></picture> About Me </h1> </div>
 
-<picture> <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif/Right_Side.gif?raw=true" width = 350px></picture>
+<picture> <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif/Right_Side.gif?raw=true" width = 300px></picture>
 
 <br><br>
 
